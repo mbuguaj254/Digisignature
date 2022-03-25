@@ -1,5 +1,5 @@
 # Digisignature
-This is a python code to crop a photograph of a pen signature, then remove background to make it digital and easy to copy on paper.
+This is a python code to crop a photograph of a pen signature, then remove background to make it digital and easy to copy on other soft copy documents.
 
 ##Steps
 Install python
